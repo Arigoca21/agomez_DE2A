@@ -1,0 +1,43 @@
+body{
+    background-color:#FCF0C8;
+    margin:0;
+    padding:0;
+}
+
+ header {
+  background-color: #F7D098;
+  color: #911F27;
+  font-family: "HighSociety";
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+  
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadrado {
+  width: 300px;
+  height: 300px;
+  background-color: #911F27;
+  border: 1px solid #630A10;
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadrado p {
+  text-align: center;
+  font-family: "HighSociety";font-size: 35pt;
+  color:#F7D098;
+  
+
+}
