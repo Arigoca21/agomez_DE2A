@@ -1,0 +1,67 @@
+body{
+  background-color: red;
+  background-image: url(netflix.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+#contenidor {
+  background-color: blue;
+
+}
+.cuadraditos {
+  height: 305px;
+  width: 200px;
+  background-color: red;
+  margin: 10px;
+  font-size: 40px;
+  text-align: center;
+  line-height: 5px;
+  border: 2px solid red;
+  border-radius: 25;
+  float:left;
+}
+
+#div1 {
+  background-color:powderblue;
+  border: 2px solid red;
+  background-image: url(eljuegodelcalamar.jpeg);
+  background-size:cover;
+  float:left;
+}
+
+#div2 {
+  background-color:lightskyblue;
+  background-image: url(thewitcher.jpeg);
+  background-size: cover;
+  border: 2px solid red;
+  float:left;
+
+}
+#div3 {
+  background-color:skyblue;
+  background-image: url(lasagawinx.jpeg);
+  background-size: cover;
+  border: 2px solid red;
+  float:left;
+}
+#div4 {
+  background-color:lightskyblue;
+  background-image: url(cobrakai.jpeg);
+  background-size: cover;
+  border: 2px solid red;
+  float:right;
+}
+#div5 {
+  background-color:deepskyblue;
+  background-image: url(theumbrellaacademy.jpeg);
+  background-size: cover;
+  border: 2px solid red;
+  float:right;
+}
+#div6 {
+  background-color:dodgerblue;
+  background-image: url(strangerthings.jpeg);
+  background-size: cover;
+  border: 2px solid red;
+  float:right;
+}
